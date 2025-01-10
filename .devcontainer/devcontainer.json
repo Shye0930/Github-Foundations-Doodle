@@ -1,0 +1,6 @@
+{
+    "name": "basic configuration",
+    "features": {
+        "ghcr.io/devcontainers/features/terraform:1":{}
+    }
+}
