@@ -96,3 +96,7 @@ bar | baz
 [Secret Page](./secret.md)
 
 
+## Tasklist
+
+- [ ] Item 1
+- [x] Item 2
