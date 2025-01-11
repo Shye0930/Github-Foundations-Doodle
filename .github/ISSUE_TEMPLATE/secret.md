@@ -1,8 +1,8 @@
 ---
-name: "Secret Issue"
+name: Secret Issue
 about: Submit a secret
 title: ''
-labels: secret
+labels: ''
 assignees: ''
 
 ---
